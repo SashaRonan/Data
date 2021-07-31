@@ -2,54 +2,63 @@
     "id": "1",
     "title": "Jacket",
     "price": "10",
-    "imgsrc": "img/product_img_1.png"
+    "imgsrc": "img/product_img_1.png",
+    "imgsrccart": "img/cart__img__1.png"
 },
 {
     "id": "2",
     "title": "Coat",
     "price": "3",
-    "imgsrc": "img/product_img_2.png"
+    "imgsrc": "img/product_img_2.png",
+    "imgsrccart": "img/cart__img__2.png"
 },
 {
     "id": "3",
     "title": "Jacket",
     "price": "12",
-    "imgsrc": "img/product_img_3.png"
+    "imgsrc": "img/product_img_3.png",
+    "imgsrccart": "img/cart__img__3.png"
 },
 {
     "id": "4",
     "title": "T-shirt",
     "price": "9",
-    "imgsrc": "img/product_img_4.png"
+    "imgsrc": "img/product_img_4.png",
+    "imgsrccart": "img/cart__img__4.png"
 },
 {
     "id": "5",
     "title": "Hoodie",
     "price": "17",
-    "imgsrc": "img/product_img_5.png"
+    "imgsrc": "img/product_img_5.png",
+    "imgsrccart": "img/cart__img__5.png"
 },
 {
     "id": "6",
     "title": "Tunic",
     "price": "20",
-    "imgsrc": "img/product_img_6.png"
+    "imgsrc": "img/product_img_6.png",
+    "imgsrccart": "img/cart__img__6.png"
 },
 {
     "id": "7",
     "title": "Suit",
     "price": "14",
-    "imgsrc": "img/product_img_7.png"
+    "imgsrc": "img/product_img_7.png",
+    "imgsrccart": "img/cart__img__7.png"
 },
 {
     "id": "8",
     "title": "Jacket",
     "price": "13",
-    "imgsrc": "img/product_img_8.png"
+    "imgsrc": "img/product_img_8.png",
+    "imgsrccart": "img/cart__img__8.png"
 },
 {
     "id": "9",
     "title": "T-shirt",
     "price": "10",
-    "imgsrc": "img/product_img_9.png"
+    "imgsrc": "img/product_img_9.png",
+    "imgsrccart": "img/cart__img__9.png"
 }
 ]
